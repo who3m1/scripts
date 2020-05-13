@@ -18,6 +18,12 @@
 
 # 客户端配置教程
 
+## 软件
+
+[Windows](sswindows.zip)
+[Linux](sslinux.zip)
+[Android](https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.1.0/shadowsocks--universal-5.1.0.apk)
+
 ## SS
 
 [Shadowsocks/SS windows客户端配置教程](https://www.hijk.pw/shadowsocks-windows-client-config-tutorial/)
